@@ -1,8 +1,5 @@
 streamlit
-streamlit-webrtc
-opencv-python-headless
-matplotlib
+Pillow
 numpy
-pillow
-tensorflow
-tensorflow_hub
+requests
+matplotlib
